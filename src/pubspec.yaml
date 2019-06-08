@@ -1,5 +1,5 @@
-name: src
-description: A new Flutter project.
+name: qr_bar_code
+description: A completed no ads QR Code - Bar Code scanner/reader.
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
